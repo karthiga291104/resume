@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Resume - Karthiga Gomathi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background-color: #ffffff;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        h1 {
+            font-size: 2.2em;
+            margin-bottom: 5px;
+        }
+        p {
+            margin: 5px 0;
+        }
+        hr {
+            border: none;
+            height: 1px;
+            background-color: #ddd;
+            margin: 20px 0;
+        }
+        .section-title {
+            font-size: 1.2em;
+            color: #333;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Karthiga Gomathi</h1>
+        <p><strong>Email:</strong> karthigagomathi29@gmail.com</p>
+        <p><strong>Phone:</strong> 8681806841</p>
+        <p><strong>Date of Birth:</strong> 29.11.2004</p>
+        <p><strong>Father's Name:</strong> Saravanan</p>
+
+        <hr>
+
+        <h2>Objective</h2>
+        <p>A dedicated and ambitious Bachelor of Commerce (General) student with strong academic performance and internship experience. Seeking opportunities to apply my knowledge in accounting, finance, and business administration while enhancing my professional skills in a dynamic environment.</p>
+
+        <hr>
+
+        <h2>Education</h2>
+        <ul>
+            <li><strong>Bachelor of Commerce (B.Com) - General</strong><br>PSV College of Arts and Science (Affiliated to Pondicherry University) – Mullodai, Puducherry<br>Present Year: 3rd Year<br>Relevant Subjects: Accountancy, Commerce, Economics, Business Law, Financial Management</li>
+            <li><strong>12th Standard:</strong> Completed in 2022<br>Score: 86.83%</li>
+            <li><strong>10th Standard:</strong> Completed in 2020<br>Score: 60.8%</li>
+        </ul>
+
+        <hr>
+
+        <h2>Internship Experience</h2>
+        <ul>
+            <li><strong>Intern</strong><br>Lenovo, March 2024<br>Gained knowledge and training in manufacturing operations.<br>Assisted in analyzing financial statements and supporting budget preparations.<br>Collaborated with the team, developing time management skills.</li>
+        </ul>
+
+        <hr>
+
+        <h2>Skills</h2>
+        <ul>
+            <li><strong>Technical Skills:</strong> Basic Accounting, Microsoft Excel, Microsoft Word, PowerPoint</li>
+            <li><strong>Soft Skills:</strong> Communication, Teamwork, Problem Solving, Time Management</li>
+        </ul>
+
+        <hr>
+
+        <h2>Languages</h2>
+        <ul>
+            <li><strong>English:</strong> Professional Proficiency</li>
+            <li><strong>Tamil:</strong> Native Proficiency</li>
+        </ul>
+
+        <hr>
+
+        <h2>Hobbies and Interests</h2>
+        <ul>
+            <li>Reading books and gaining knowledge related to business and economics</li>
+            <li>Listening to music</li>
+        </ul>
+
+        <hr>
+
+        <h2>Courses</h2>
+        <p>Currently studying Tally</p>
+    </div>
+</body>
+</html>
